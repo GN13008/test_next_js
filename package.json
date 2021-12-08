@@ -14,5 +14,11 @@
     "remark": "^14.0.2",
     "remark-html": "^15.0.1",
     "serve": "^13.0.2"
+  },
+  "name": "myapp",
+  "description": "a really cool app",
+  "version": "1.0.0",
+  "engines": {
+    "node": "14.15.0"
   }
 }
